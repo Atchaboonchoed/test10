@@ -1,0 +1,16 @@
+{
+	"name": "ตะลุยอวกาศพิชิตโลกดิจิทัล",
+	"short_name": "ตะลุยอวกาศพิชิตโลกดิจิทัล",
+	"description": "ตะลุยอวกาศพิชิตโลกดิจิทัล",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/icon-16.png",
+			"sizes": "1024x1024",
+			"type": "image/png"
+		}
+	]
+}
